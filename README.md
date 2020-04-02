@@ -14,4 +14,4 @@ _Unpaired Image-to-Image Translation with Conditional Adversarial Networks_
 #### Authors
 Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
 
-[[Paper]](https://arxiv.org/abs/1611.07004) [[Colab]](./implementations/pix2pix.ipynb)
+[[Paper]](https://arxiv.org/abs/1611.07004) [[Colab]](./implementations/Pix2Pix.ipynb)
