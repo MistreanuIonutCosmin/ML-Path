@@ -6,7 +6,7 @@ Collection of PyTorch/Tensorflow implementations for different research papers. 
 ## Table of Contents
 * [Implementations](#implementations)
     + [Pix2Pix](#pix2pix)
-    + [CauchySchawarzDivergence](#Cauchy-Schawarz Divergence)
+    + [CauchySchawarzDivergence](#CauchySchawarzDivergence)
 
 
 ### Pix2Pix
