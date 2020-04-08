@@ -6,7 +6,7 @@ Collection of PyTorch/Tensorflow implementations for different research papers. 
 ## Table of Contents
 * [Implementations](#implementations)
     + [Pix2Pix](#pix2pix)
-    + [CauchySchawarzDivergence](#CauchySchawarzDivergence)
+    + [CauchySchawarzDivergence](#Cauchy-Schawarz Divergence)
 
 
 ### Pix2Pix
@@ -16,3 +16,6 @@ _Unpaired Image-to-Image Translation with Conditional Adversarial Networks_
 Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
 
 [[Paper]](https://arxiv.org/abs/1611.07004) [[Colab]](./implementations/Pix2Pix.ipynb)
+
+### Cauchy-Schawarz Divergence
+[[Colab]](./implementations/Pix2Pix.ipynb)
