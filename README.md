@@ -18,4 +18,4 @@ Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
 [[Paper]](https://arxiv.org/abs/1611.07004) [[Colab]](./implementations/Pix2Pix.ipynb)
 
 ### Cauchy-Schawarz Divergence
-[[Colab]](./implementations/Pix2Pix.ipynb)
+[[Colab]](./implementations/CauchySchawarzDivergence.ipynb)
