@@ -2,6 +2,10 @@
 
 Collection of PyTorch/Tensorflow implementations for different research papers. Model architectures will not always mirror the ones proposed in the papers. 
 
+## Theory
+[Entropy, Cross-Entropy, KL-Divergence](https://www.evernote.com/shard/s552/sh/e071f771-d0ea-4278-8438-5ad0b9003304/98442a295f0e3fb9f6c814789e11f85f)
+
+
 
 ## Table of Contents
 * [Implementations](#implementations)
